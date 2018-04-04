@@ -1,0 +1,15 @@
+﻿  ZergPlayer.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  TerranPlayer.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  RandomPlayer.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  ProtossPlayer.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  PlayerModel.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  OpponentModelling.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  ObjectInfo.cpp
+d:\ualberta\final 21.3. 19-00\ualbertabot-master\opponentmodelling\source\objectinfo.h(2): fatal error C1083: Cannot open include file: 'BWAPI.h': No such file or directory
+  Generating Code...
